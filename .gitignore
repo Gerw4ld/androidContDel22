@@ -46,3 +46,5 @@ proguard-project.txt
 /captures
 .externalNativeBuild
 .cxx
+/wrapper
+android-keystore.jks
